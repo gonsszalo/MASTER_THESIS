@@ -130,5 +130,3 @@ En el script 5, se analizan los resultados obtenidos y se lleva a cabo una prior
 * *Figura 11A-B*
 * *Figura 12A-B*
 * *Figura 13*
-
-
